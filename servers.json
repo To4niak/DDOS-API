@@ -1,0 +1,14 @@
+{
+    "server1": {
+      "hostname": "hostname-ip",
+      "port": 22,
+      "username": "user",
+      "password": "password"
+    },
+    "server2": {
+      "hostname": "hostname-ip",
+      "port": 22,
+      "username": "user",
+      "password": "password"
+    }
+  }
